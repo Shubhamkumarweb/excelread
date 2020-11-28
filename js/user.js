@@ -38,7 +38,7 @@ fetch("https://cors-anywhere.herokuapp.com/https://api.myzila.com/LiveDashboard"
         l++;
        }
     usertotal.innerHTML=k;
-    salestotal.innerHTML=i+".42";
+    salestotal.innerHTML=i;
     sales24.innerHTML=j;
     user24.innerHTML=l;
     // console.log("running");
