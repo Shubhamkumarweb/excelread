@@ -10,7 +10,7 @@
     display: flex;
     flex-direction: column;
     /* justify-content: center; */
-    background: url("../img/background.jpeg") no-repeat;
+    background: url("https://www.ppt-backgrounds.net/thumbs/sky-blue-pure-downloads-backgrounds.jpg") no-repeat;
     background-size: cover;
     min-height: 100vh;
 }
